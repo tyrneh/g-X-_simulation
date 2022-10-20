@@ -1,4 +1,4 @@
-# g-X-_simulation
+# g(X) simulation
 
 - In this exercise, we want to find the probability of occurance of extreme tail-risk events for 6 'archetypes'. To do so, we'll need to find the probability density function (pdf) of each 'archetype', which is a random variable (RV). 
 - This RV we're interested in itself is a combination of 6 underlying RVs ('subarchetypes'). We don't have information on the pdf of any of these 'subarchetypes'. 
